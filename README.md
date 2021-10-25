@@ -2,7 +2,7 @@
  
 /*Write a java program to accept two integers from the user and display result of all arithmetic operations. 
 Handle the appropriate exceptions.*/
-/* GITHUB OSL LAB 8 TESTING
+
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
